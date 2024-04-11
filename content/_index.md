@@ -62,27 +62,54 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: Senior AI Research Engineer
           company: GenCoin
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: NYC
+          date_start: 'Jan 2023'
+          date_end: 'Present'
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Working on leveraging ML models for multi-variate time-series modeling to build real-time pricing models for Fixed-Income securities.
+        - title: Applied Scientist
+          company: Amazon - Media and Ads Group
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: NYC
+          date_start: 'May 2022'
+          date_end: 'Aug 2022'
+          description:
+              * Worked on generating headlines for products by factoring in multiple modalities such as Product Images and product attributes (Text); using SOTA multimodal fusion networks such as Flava, Mantis.
+              * Employed contrastive learning to improve the diversity of the generated headlines and rouge, bleu score by 53.5% and 145% respectively, w.r.t unimodal models.
+        - title: Graduate Research Assistant
+          company: MultiComp Lab - CMU (Advisor: Prof. L.P. Morency)
+          company_url: ''
+          company_logo: org-x
+          location: NYC
+          date_start: 'May 2022'
+          date_end: 'Aug 2022'
+          description:
+              * Worked on analyzing QA bias in Multi-modal Question Answering Systems using fine-tuned language models.
+        - title: Graduate Research Assistant
+          company: Lions Research Lab
+          company_url: ''
+          company_logo: org-x
+          location: NYC
+          date_start: 'Jan 2022'
+          date_end: 'May 2022'
+          description:
+              * Worked on the transferability of adversarial attacks in Personalized Federated Learning setup and trying to make the learnt model more robust to such attacks.
+        - title: Software Engineer - Machine Learning
+          company: Walmart Grp (Flipkart)
+          company_url: ''
+          company_logo: org-x
+          location: NYC
+          date_start: 'Jul 2019'
+          date_end: 'Aug 2021'
+          description:
+              * Leveraged Image encoders such as ViT, ResNets, to generate embeddings of the product images. Indexed the generated embeddings, added multi-cluster support for reads and writes, and used the embeddings to support Product Deduplication.
+              * Developed a prioritized distributed message processing xtension to the camel-Kafka component in Java, to support priority consumption of records and implemented various consumption strategies to support different use cases.
     design:
       columns: '2'
   - block: accomplishments
