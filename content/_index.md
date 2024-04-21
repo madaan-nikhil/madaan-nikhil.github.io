@@ -79,7 +79,7 @@ sections:
           location: NYC
           date_start: 'May 2022'
           date_end: 'Aug 2022'
-          description:
+          description: |2-
               * Worked on generating headlines for products by factoring in multiple modalities such as Product Images and product attributes (Text); using SOTA multimodal fusion networks such as Flava, Mantis.
               * Employed contrastive learning to improve the diversity of the generated headlines and rouge, bleu score by 53.5% and 145% respectively, w.r.t unimodal models.
         - title: Graduate Research Assistant
@@ -89,7 +89,7 @@ sections:
           location: NYC
           date_start: 'May 2022'
           date_end: 'Aug 2022'
-          description:
+          description: |2-
               * Worked on analyzing QA bias in Multi-modal Question Answering Systems using fine-tuned language models.
         - title: Graduate Research Assistant
           company: Lions Research Lab
@@ -98,7 +98,7 @@ sections:
           location: NYC
           date_start: 'Jan 2022'
           date_end: 'May 2022'
-          description:
+          description: |2-
               * Worked on the transferability of adversarial attacks in Personalized Federated Learning setup and trying to make the learnt model more robust to such attacks.
         - title: Software Engineer - Machine Learning
           company: Walmart Grp (Flipkart)
@@ -107,7 +107,7 @@ sections:
           location: NYC
           date_start: 'Jul 2019'
           date_end: 'Aug 2021'
-          description:
+          description: |2-
               * Leveraged Image encoders such as ViT, ResNets, to generate embeddings of the product images. Indexed the generated embeddings, added multi-cluster support for reads and writes, and used the embeddings to support Product Deduplication.
               * Developed a prioritized distributed message processing xtension to the camel-Kafka component in Java, to support priority consumption of records and implemented various consumption strategies to support different use cases.
     design:
