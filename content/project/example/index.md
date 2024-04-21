@@ -1,7 +1,6 @@
 ---
-title: LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent
-summary: Jianing (Jed) Yang, Xuweiyi Chen, Shengyi Qian, Nikhil Madaan, Madhavan Iyengar, David Fouhey, Joyce Y. Chai
-Accepted at ICRA 2024 | LangRob @ CoRL(LangRob) 2023.
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
 
 date: '2016-04-27T00:00:00Z'
