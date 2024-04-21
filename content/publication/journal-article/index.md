@@ -1,11 +1,13 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Jianing (Jed) Yang
+- Xuweiyi Chen
+- Shengyi Qian
+- <u><b>Nikhil Madaan</b></u>
+- Madhavan Iyengar
+- David Fouhey
+- Joyce Y. Chai
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
