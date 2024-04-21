@@ -70,11 +70,8 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Working on leveraging ML models for multi-variate time-series modeling to build real-time pricing models for Fixed-Income securities.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
