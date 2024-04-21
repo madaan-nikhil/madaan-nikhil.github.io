@@ -62,28 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior AI Research Engineer
+        - title: CEO
           company: GenCoin
           company_url: ''
           company_logo: org-gc
-          location: NYC
-          date_start: 'Jan 2023'
-          date_end: 'Present'
-          description: |2-
-
-              * Working on leveraging ML models for multi-variate time-series modeling to build real-time pricing models for Fixed-Income securities.
-        - title: Applied Scientist
-          company: Amazon - Media and Ads Group
-          company_url: ''
-          company_logo: org-x
-          location: NYC
-          date_start: 'May 2022'
-          date_end: 'Aug 2022'
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Worked on generating headlines for products by factoring in multiple modalities such as Product Images and product attributes (Text); using SOTA multimodal fusion networks such as Flava, Mantis.
-              * Employed contrastive learning to improve the diversity of the generated headlines and rouge, bleu score by 53.5% and 145% respectively, w.r.t unimodal models.
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
