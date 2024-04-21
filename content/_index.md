@@ -65,7 +65,7 @@ sections:
         - title: Senior AI Researcher
           company: Bloomberg AI
           company_url: 'https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/'
-          company_logo: org-gc
+          company_logo: bloomberg
           location: NYC
           date_start: '2023-01-01'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Graduate Research Assistant
           company: MultiComp Lab, CMU
           company_url: ''
-          company_logo: org-x
+          company_logo: lti
           location: Seattle
           date_start: '2022-01-01'
           date_end: '2023-05-31'
@@ -96,7 +96,7 @@ sections:
         - title: Graduate Research Assistant
           company: Lions Research Lab, CMU
           company_url: ''
-          company_logo: org-x
+          company_logo: cmu
           location: Pittsburgh
           date_start: '2022-01-01'
           date_end: '2022-12-31'
@@ -106,8 +106,8 @@ sections:
         - title: Software Engineer - Machine Learning
           company: Walmart Grp (Flipkart)
           company_url: ''
-          company_logo: org-x
-          location: Seattle
+          company_logo: walmart
+          location: Bangalore, India
           date_start: '2019-07-01'
           date_end: '2022-08-31'
           description: |2-
