@@ -72,14 +72,17 @@ sections:
           description: |2-
 
               * Working on leveraging ML models for multi-variate time-series modeling to build real-time pricing models for Fixed-Income securities.
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Applied Scientist
+          company: Amazon - Media and Ads Group
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Seattle
+          date_start: '2022-05-01'
+          date_end: '2022-08-31'
+          description: |2-
+
+              * Worked on generating headlines for products by factoring in multiple modalities such as Product Images and product attributes (Text); using SOTA multimodal fusion networks such as Flava, Mantis.
+              * Employed contrastive learning to improve the diversity of the generated headlines and rouge, bleu score by 53.5% and 145% respectively, w.r.t unimodal models.
     design:
       columns: '2'
   - block: accomplishments
