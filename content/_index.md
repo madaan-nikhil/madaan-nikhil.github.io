@@ -75,7 +75,7 @@ sections:
         - title: Applied Scientist
           company: Amazon - Media and Ads Group
           company_url: ''
-          company_logo: org-x
+          company_logo: amazon
           location: Seattle
           date_start: '2022-05-01'
           date_end: '2022-08-31'
