@@ -67,8 +67,8 @@ sections:
           company_url: 'https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/'
           company_logo: org-gc
           location: NYC
-          date_start: 'Jan 23'
-          date_end: 'Present'
+          date_start: 'Jan 2023'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
