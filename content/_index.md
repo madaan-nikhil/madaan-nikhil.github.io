@@ -99,7 +99,7 @@ sections:
           company_logo: org-x
           location: Pittsburgh
           date_start: '2022-01-01'
-          date_end: '2023-05-31'
+          date_end: '2022-12-31'
           description: |2-
 
               * Worked on the transferability of adversarial attacks in Personalized Federated Learning setup and trying to make the learnt model more robust to such attacks..
@@ -108,8 +108,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Seattle
-          date_start: '2022-01-01'
-          date_end: '2023-05-31'
+          date_start: '2019-07-01'
+          date_end: '2022-08-31'
           description: |2-
 
               * Leveraged Image encoders such as ViT, ResNets, to generate embeddings of the product images. Indexed the generated embeddings, added multi-cluster support for reads and writes, and used the embeddings to support Product Deduplication.
