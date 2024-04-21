@@ -244,7 +244,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: showcase
+      view: compact
   - block: collection
     id: talks
     content:
@@ -254,7 +254,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: showcase
+      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
