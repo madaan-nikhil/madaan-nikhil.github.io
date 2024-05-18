@@ -1,16 +1,15 @@
 ---
-title: "Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning"
+title: "Investigating the important termporal modulations for deep-learning-based speech activity detection."
 authors:
-- Taejin Kim
-- Jiarui Li
+- Tyler Vuong
 - Nikhil Madaan
-- Shubranshu Singh
-- Carlee Joe-Wong
+- Rohan Panda
+- Richard M. Stern
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,7 +31,7 @@ featured: false
 
 links:
   - name: pdf
-    url: https://openreview.net/forum?id=l642rGiKGr&referrer=%5Bthe%20profile%20of%20Nikhil%20Madaan%5D(%2Fprofile%3Fid%3D~Nikhil_Madaan2)
+    url: https://ieeexplore.ieee.org/abstract/document/10022462
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
@@ -65,5 +64,5 @@ projects:
 ---
 
 {{% callout note %}}
-Accepted at Neurips 2023.
+Accepted at SLT 2022
 {{% /callout %}}

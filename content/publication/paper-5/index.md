@@ -1,10 +1,9 @@
 ---
-title: "Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning"
+title: "Characterizing Internal Evasion Attacks in Federated Learning"
 authors:
 - Taejin Kim
-- Jiarui Li
-- Nikhil Madaan
 - Shubranshu Singh
+- Nikhil Madaan
 - Carlee Joe-Wong
 date: ""
 doi: ""
@@ -32,7 +31,7 @@ featured: false
 
 links:
   - name: pdf
-    url: https://openreview.net/forum?id=l642rGiKGr&referrer=%5Bthe%20profile%20of%20Nikhil%20Madaan%5D(%2Fprofile%3Fid%3D~Nikhil_Madaan2)
+    url: https://proceedings.mlr.press/v206/kim23a/kim23a.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
@@ -65,5 +64,5 @@ projects:
 ---
 
 {{% callout note %}}
-Accepted at Neurips 2023.
+Accepted at AISTATS 2023
 {{% /callout %}}
