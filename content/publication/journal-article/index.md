@@ -1,32 +1,30 @@
 ---
-title: "An example journal article"
+title: "Contrastive Multimodal Text Generation for E-Commerce Brand Advertising"
 authors:
-- Jianing (Jed) Yang
-- Xuweiyi Chen
-- Shengyi Qian
-- <u><b>Nikhil Madaan</b></u>
-- Madhavan Iyengar
-- David Fouhey
-- Joyce Y. Chai
-date: "2015-09-01T00:00:00Z"
+- Nikhil Madaan
+- Krishna Reddy Kesari
+- Manisha Verma
+- Shaunak Mishra
+- Tor Steiner
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: E-commerce platforms enable brands to connect with relevant online shoppers. While major brands are easily identifiable by shoppers, smaller and emerging brands often lean on advertising campaigns in e-commerce platforms to reach a wide audience. For such advertising campaigns, brands need to come up with a leading ad creative which may be shown together with their listed products. Designing such creatives requires domain expertise in marketing; it is time-intensive as well as expensive for small businesses in particular. To assist brands with the leading ad text which goes together with the title and image of their listed products, we proposea multimodal text generation model. The multimodality stems from using both the textual and visual components of multiple product listings from a brand to generate the ad text. In addition, we introduce a brand-contrastive loss while training the multimodal text generation model. This is done to provide shoppers with an experience which is unique to a brand, while learning from data collected from multiple brands across product categories. Our experiments demonstrate the benefits of multimodal inputs for ad text generation; images are useful especially when textual information is limited. We also demonstrate how our brand contrastive loss enables unique brand advertising experiences at scale by promoting diversity in the generated ad text across brands.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -35,14 +33,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://assets.amazon.science/87/a1/f1cc53f342d1a60e6974b29d6671/contrastive-multimodal-text-generation-for-e-commerce-brand-advertising.pdf
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
