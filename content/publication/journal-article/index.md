@@ -21,7 +21,7 @@ publication_types: ["paper-conference"]
 publication: ""
 publication_short: ""
 
-abstract: E-commerce platforms enable brands to connect with relevant online shoppers. While major brands are easily identifiable by shoppers, smaller and emerging brands often lean on advertising campaigns in e-commerce platforms to reach a wide audience. For such advertising campaigns, brands need to come up with a leading ad creative which may be shown together with their listed products. Designing such creatives requires domain expertise in marketing; it is time-intensive as well as expensive for small businesses in particular. To assist brands with the leading ad text which goes together with the title and image of their listed products, we proposea multimodal text generation model. The multimodality stems from using both the textual and visual components of multiple product listings from a brand to generate the ad text. In addition, we introduce a brand-contrastive loss while training the multimodal text generation model. This is done to provide shoppers with an experience which is unique to a brand, while learning from data collected from multiple brands across product categories. Our experiments demonstrate the benefits of multimodal inputs for ad text generation; images are useful especially when textual information is limited. We also demonstrate how our brand contrastive loss enables unique brand advertising experiences at scale by promoting diversity in the generated ad text across brands.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -72,3 +72,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+{{% callout note %}}
+Accepted at KDD (Multimodal) 2023.
+{{% /callout %}}
