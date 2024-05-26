@@ -4,7 +4,7 @@ authors:
 - Jianing (Jed) Yang
 - Xuweiyi Chen
 - Shengyi Qian
-- <u><b>Nikhil Madaan</b></u>
+- Nikhil Madaan
 - Madhavan Iyengar
 - David Fouhey
 - Joyce Y. Chai
